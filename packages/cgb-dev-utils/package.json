@@ -27,9 +27,9 @@
 		"url": "https://github.com/ahmadawais/create-guten-block/issues"
 	},
 	"dependencies": {
-		"@scarf/scarf": "^1.0.6",
-		"chalk": "2.3.0",
-		"cross-spawn": "5.1.0",
-		"update-notifier": "^2.3.0"
+		"@scarf/scarf": "^1.1.1",
+		"chalk": "5.0.0",
+		"cross-spawn": "7.0.3",
+		"update-notifier": "^5.1.0"
 	}
 }
